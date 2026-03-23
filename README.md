@@ -212,10 +212,10 @@ Al recargar, la tabla se reconstruye con el mismo tamaño original para garantiz
 ---
 
 ## 👤 Autor
-Jose Fernando Van strahlen Garcia
-Daniela Idarraga Gómez
-Jesús Darío Esguerra Fernández
-Jairo Luis Hernández Carvajal
+- Jose Fernando Van strahlen Garcia
+- Daniela Idarraga Gómez
+- Jesús Darío Esguerra Fernández
+- Jairo Luis Hernández Carvajal
 Proyecto desarrollado para el **Laboratorio 1 — Manejo de Índices en Archivos**  
 Materia: Estructura de Datos 1  
 Universidad del Norte — Barranquilla, Colombia, 2025
